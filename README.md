@@ -1,8 +1,9 @@
-# Hats.Finance | Contracts - Test in Foundry
-## Tests in Foundry
-- Execute a test in Foundry
+# Hats.Finance | Contracts - Test of PoC in Foundry
+## Installation for executing tests of PoC in Foundry  
+- Execute a test of a PoC that show an exploit of the HatToken.sol  
+(NOTE: Execution command below must be executed in the root directory)
 ```
-<EXECUTION COMMAND>
+forge test -vvvv --match-contract HATTokenExploitTest
 ```
 
 <br>
