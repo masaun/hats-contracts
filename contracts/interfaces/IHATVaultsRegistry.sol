@@ -6,6 +6,9 @@ pragma solidity 0.8.16;
 import "./IRewardController.sol";
 import "./IHATVault.sol";
 
+import "@openzeppelin/contracts/token/ERC20/IERC20.sol";  // Added
+
+
 /** @title Interface for the Hats.finance Vault Registry
  * @author hats.finance
  * @notice The Hats.finance Vault Registry is used to deploy Hats.finance

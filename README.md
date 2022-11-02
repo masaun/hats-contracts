@@ -1,15 +1,16 @@
-# Hats.Finance | Contracts - Test in Foundry
-## Tests in Foundry
-- Execute a test in Foundry
-```
-<EXECUTION COMMAND>
-```
+# Hats.Finance | Contracts - Test of PoC in Foundry
+## PoC of potential exploits in Foundry  
+- PoC of potential exploit of RewardController.sol  
+https://github.com/masaun/hats-contracts/tree/test_PoC-of-exploit-of-RewardController.sol_in_Foundry/test-foundry/poc-of-exploits/poc-of-exploit_RewardController  
+
+- PoC of potential exploit of HATToken.sol (NOTE: In Progress)  
+https://github.com/masaun/hats-contracts/tree/test_PoC-of-exploit-of-RewardController.sol_in_Foundry/test-foundry/poc-of-exploits/poc-of-exploit_HATToken  
 
 <br>
 
-## References
-- Foundry - how to integrate with Hardhat
-  https://book.getfoundry.sh/config/hardhat#4-steps-to-add-foundry-test
+## References  
+- Foundry - how to integrate with Hardhat  
+  https://book.getfoundry.sh/config/hardhat#4-steps-to-add-foundry-test  
 
 <br>
 
